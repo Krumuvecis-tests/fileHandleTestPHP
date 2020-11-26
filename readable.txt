@@ -1,0 +1,3 @@
+rinda1_1 : rinda1_2 : rinda1_3
+rinda2_1 : rinda2_2 : rinda2_3
+rinda3_1 : rinda3_2 : rinda3_3
